@@ -5,5 +5,6 @@ I will be using this repo to track my progress on the 100 days of code Python ch
 ## Contents
 
 - Day 18: [The Hirst Painting](https://github.com/OliverCutting/100DaysOfCode/tree/main/TheHirstPainting) - 25/06/22
+- Day 19: [Turtle Race](https://github.com/OliverCutting/100DaysOfCode/tree/main/TurtleRace) - 25/06/22
 - Day 27: [Mile to Km Converter](https://github.com/OliverCutting/100DaysOfCode/tree/main/MileToKmConverter) - 24/06/22
 - Day 28: [Pomodoro](https://github.com/OliverCutting/100DaysOfCode/tree/main/Pomodoro) - 24/06/22
