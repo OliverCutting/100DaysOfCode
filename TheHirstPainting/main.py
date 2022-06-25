@@ -6,9 +6,10 @@ colormode(255)
 
 turtle = Turtle()
 turtle.speed('fastest')
+size_of_grid = 10
 
 def draw_row():
-  for _ in range(10):
+  for _ in range(size_of_grid):
     turtle.dot(35, random.choice(colorslist))
     turtle.fd(70)
     turtle.dot(35, random.choice(colorslist))
@@ -26,7 +27,7 @@ def turn_left():
 turtle.pu()
 turtle.setpos(-350, -350)
 
-for _ in range(5):
+for _ in range(int(size_of_grid)):
   draw_row()
   turn_left()
   draw_row()
