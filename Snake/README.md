@@ -3,3 +3,5 @@
 Day 20 had me build the classic mobile game Snake.
 
 ## Instructions
+
+Use the arrow keys to move
